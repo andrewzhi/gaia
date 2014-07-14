@@ -1,0 +1,17 @@
+html {font-size: 120%;}
+@media all and (max-device-width: 500px)
+{
+  html{font-size: 94%;}
+}
+
+body{padding:0;margin:0;}
+
+h1{font-size:2rem;color:#A020F0;}
+h2{font-size:1.3rem;color:#333333;margin-bottom:0;}
+li{font-size:1.6rem;padding-bottom:1rem;}
+
+.title{height:60px;display:block;}
+.text{font-size: 1.4rem;}
+.back{font-size: 1.2rem;margin-left:1rem;}
+
+.stage{/*border:5px solid red;*/margin:0 0 10px 5px;}

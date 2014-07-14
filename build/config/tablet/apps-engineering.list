@@ -17,4 +17,5 @@ apps/pdfjs
 apps/video
 apps/wallpaper
 apps/marketplace.firefox.com
+apps/test-canvas
 outoftree_apps/*
